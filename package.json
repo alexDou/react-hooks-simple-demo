@@ -16,9 +16,9 @@
         "react-dom": "^16.8.6",
         "react-router-dom": "5.0.1",
         "semantic-ui-react": "0.87.2",
-        "ts-loader": "^6.0.4",
+        "ts-loader": "^9.4.2",
         "typescript": "^3.5.2",
-        "webpack": "4.35.2",
+        "webpack": "5.75.0",
         "webpack-dev-server": "3.7.2"
     },
     "devDependencies": {
@@ -40,6 +40,6 @@
         "eslint-plugin-standard": "4.0.0",
         "jest": "^24.8.0",
         "ts-jest": "^24.0.2",
-        "webpack-cli": "^3.3.5"
+        "webpack-cli": "^5.0.1"
     }
 }
